@@ -1,8 +1,8 @@
 Package.describe({
-    name: "jplatimer:articles",
+    name: "altapp:articles",
 	summary: "Meteor package for determining indefinite articles (a vs. an) for English words.",
-	git: "https://github.com/manybothans/Meteor-Articles.git",
-    version: "0.0.1",
+	git: "https://github.com/Altapp/Meteor-Articles.git",
+    version: "0.2.0",
 });
 
 /* This defines your actual package */

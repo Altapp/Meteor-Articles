@@ -5,7 +5,7 @@ Determines whether "a" or "an" should precede a word in English using the method
 ## Installation
 
 ``` sh
-meteor add jplatimer:articles
+meteor add altapp:articles
 ```
 
 ## Usage
